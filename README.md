@@ -1,1 +1,2 @@
-# AttitudeIndependentMagnetometerCalibration
+MagnetometerCalibration
+MagnetometerCalibration
